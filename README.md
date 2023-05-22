@@ -1,6 +1,6 @@
 # spring-boot-with-docker-compose
 
-DB downloading process
+Postgres image downloading process
 
 ![img.png](img.png)
 
